@@ -1,0 +1,280 @@
+TY  - BOOK
+TI  - Advanced millimeter-wave technologies: antennas, packaging and circuits
+A3  - Liu, Duixian
+CN  - TK7876.5 .A38 2009
+CY  - Hoboken, NJ
+DA  - 2009///
+PY  - 2009
+DP  - Library of Congress ISBN
+SP  - 827
+PB  - John Wiley
+SN  - 978-0-470-99617-1
+ST  - Advanced millimeter-wave technologies
+KW  - Millimeter wave devices
+KW  - Millimeter waves
+ER  - 
+
+TY  - JOUR
+TI  - Far-infrared time-domain spectroscopy with terahertz beams of dielectrics and semiconductors
+AU  - Grischkowsky, D.
+AU  - Keiding, Søren
+AU  - van Exter, Martin
+AU  - Fattinger, Ch.
+T2  - Journal of the Optical Society of America B
+DA  - 1990/10/01/
+PY  - 1990
+DO  - 10.1364/JOSAB.7.002006
+DP  - Crossref
+VL  - 7
+IS  - 10
+SP  - 2006
+LA  - en
+SN  - 0740-3224, 1520-8540
+UR  - https://www.osapublishing.org/abstract.cfm?URI=josab-7-10-2006
+Y2  - 2018/10/11/12:08:56
+L1  - https://shareok.org/bitstream/11244/19856/1/okds_Grischkowsky_APL_1990-10.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Millimeter-wave interactions with the human body: state of knowledge and recent advances
+AU  - Zhadobov, Maxim
+AU  - Chahat, Nacer
+AU  - Sauleau, Ronan
+AU  - Le Quement, Catherine
+AU  - Le Drean, Yves
+T2  - International Journal of Microwave and Wireless Technologies
+DA  - 2011/04//
+PY  - 2011
+DO  - 10.1017/S1759078711000122
+DP  - Crossref
+VL  - 3
+IS  - 02
+SP  - 237
+EP  - 247
+LA  - en
+SN  - 1759-0787, 1759-0795
+ST  - Millimeter-wave interactions with the human body
+UR  - http://www.journals.cambridge.org/abstract_S1759078711000122
+Y2  - 2018/10/11/12:16:20
+ER  - 
+
+TY  - THES
+TI  - Flexible Antennas Design and Test for Human Body Applications Scenarios
+AU  - Faria, J
+DA  - 2015///
+PY  - 2015
+M3  - PhD Thesis
+PB  - Master’s thesis, Instituto Superior Tecnico
+ER  - 
+
+TY  - BOOK
+TI  - Microwave and millimeter wave circuits and systems: emerging design, technologies, and applications
+A3  - Georgiadis, Apostolos
+CN  - TK7876 .M5225 2013
+CY  - Chichester, West Sussex ; Hoboken
+DA  - 2012///
+PY  - 2012
+DP  - Library of Congress ISBN
+SP  - 521
+PB  - John Wiley & Sons
+SN  - 978-1-119-94494-2
+ST  - Microwave and millimeter wave circuits and systems
+KW  - Design and construction
+KW  - Electronic circuit design
+KW  - European Union countries
+KW  - Microwave circuits
+KW  - Millimeter waves
+KW  - Research
+ER  - 
+
+TY  - JOUR
+TI  - Millimeter-wave planar antenna on flexible polyethylene terephthalate substrate with water base silver nanoparticles conductive ink
+AU  - Pourahmadazar, Javad
+AU  - Denidni, Tayeb A.
+T2  - Microwave and Optical Technology Letters
+DA  - 2018/04//
+PY  - 2018
+DO  - 10.1002/mop.31079
+DP  - Crossref
+VL  - 60
+IS  - 4
+SP  - 887
+EP  - 891
+LA  - en
+SN  - 08952477
+UR  - http://doi.wiley.com/10.1002/mop.31079
+Y2  - 2018/10/11/12:24:13
+ER  - 
+
+TY  - JOUR
+TI  - Graphene-based Antennas for Terahertz Systems: A Review
+AU  - Correas-Serrano, D.
+AU  - Gomez-Diaz, J. S.
+T2  - arXiv:1704.00371 [cond-mat]
+AB  - We review the use of graphene to develop reconfigurable, miniaturized, and efficient terahertz (THz) antennas and associated feeding networks, and attempt to identify current research trends and mid- and long-term challenges and prospects. We first discuss the state of the art in resonant, leaky-wave and reflectarray antennas, providing a critical assessment of their performance, limitations, and main challenges that remain to be addressed. Next, we examine different integrated feeding networks, including components such as switches, filters, and phase shifters, and we clarify the impact that graphene's intrinsic spatial dispersion may have in their performance. Our outlook clearly describes how graphene can bring exotic functionalities to all these devices, including quasi real-time reconfiguration capabilities and magnet-less non-reciprocal responses. Some exciting applications of THz antennas are then presented and discussed, including transceivers, biosensors, and first experimental realizations of detectors and modulators. We conclude by outlining our vision for the promising future of graphene-based THz antennas.
+DA  - 2017/04/02/
+PY  - 2017
+DP  - arXiv.org
+ST  - Graphene-based Antennas for Terahertz Systems
+UR  - http://arxiv.org/abs/1704.00371
+Y2  - 2018/10/11/12:25:05
+L1  - http://www.arxiv.org/pdf/1704.00371.pdf
+L2  - https://arxiv.org/abs/1704.00371
+N1  - Comment: 26 pages, 22 figures; 293 references
+KW  - Condensed Matter - Mesoscale and Nanoscale Physics
+ER  - 
+
+TY  - JOUR
+TI  - Graphene-based nano-patch antenna for terahertz radiation
+AU  - Llatser, Ignacio
+AU  - Kremers, Christian
+AU  - Cabellos-Aparicio, Albert
+AU  - Jornet, Josep Miquel
+AU  - Alarcón, Eduard
+AU  - Chigrin, Dmitry N.
+T2  - Photonics and Nanostructures - Fundamentals and Applications
+DA  - 2012/10//
+PY  - 2012
+DO  - 10.1016/j.photonics.2012.05.011
+DP  - Crossref
+VL  - 10
+IS  - 4
+SP  - 353
+EP  - 358
+LA  - en
+SN  - 15694410
+UR  - http://linkinghub.elsevier.com/retrieve/pii/S1569441012000727
+Y2  - 2018/10/11/12:25:43
+L1  - https://personals.ac.upc.edu/llatser/docs/pnfa.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Analysis and design of terahertz antennas based on plasmonic resonant graphene sheets
+AU  - Tamagnone, M.
+AU  - Gómez-Díaz, J. S.
+AU  - Mosig, J. R.
+AU  - Perruisseau-Carrier, J.
+T2  - Journal of Applied Physics
+DA  - 2012/12//
+PY  - 2012
+DO  - 10.1063/1.4768840
+DP  - Crossref
+VL  - 112
+IS  - 11
+SP  - 114915
+LA  - en
+SN  - 0021-8979, 1089-7550
+UR  - http://aip.scitation.org/doi/10.1063/1.4768840
+Y2  - 2018/10/11/12:26:12
+L1  - https://infoscience.epfl.ch/record/182204/files/JApplPhys_112_114915.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Time-Domain Analysis of Graphene-Based Miniaturized Antennas for Ultra-Short-Range Impulse Radio Communications
+AU  - Abadal, Sergi
+AU  - Llatser, Ignacio
+AU  - Mestres, Albert
+AU  - Lee, Heekwan
+AU  - Alarcon, Eduard
+AU  - Cabellos-Aparicio, Albert
+T2  - IEEE Transactions on Communications
+DA  - 2015/04//
+PY  - 2015
+DO  - 10.1109/TCOMM.2015.2406691
+DP  - Crossref
+VL  - 63
+IS  - 4
+SP  - 1470
+EP  - 1482
+SN  - 0090-6778
+UR  - http://ieeexplore.ieee.org/document/7047773/
+Y2  - 2018/10/11/12:26:57
+ER  - 
+
+TY  - JOUR
+TI  - Synthesis of highly confined surface plasmon modes with doped graphene sheets in the midinfrared and terahertz frequencies
+AU  - Gan, Choon How
+AU  - Chu, Hong Son
+AU  - Li, Er Ping
+T2  - Physical Review B
+DA  - 2012/03/26/
+PY  - 2012
+DO  - 10.1103/PhysRevB.85.125431
+DP  - Crossref
+VL  - 85
+IS  - 12
+LA  - en
+SN  - 1098-0121, 1550-235X
+UR  - https://link.aps.org/doi/10.1103/PhysRevB.85.125431
+Y2  - 2018/10/11/12:27:17
+L1  - https://arxiv.org/pdf/1203.4308
+ER  - 
+
+TY  - JOUR
+TI  - Broad Electrical Tuning of Graphene-Loaded Plasmonic Antennas
+AU  - Yao, Yu
+AU  - Kats, Mikhail A.
+AU  - Genevet, Patrice
+AU  - Yu, Nanfang
+AU  - Song, Yi
+AU  - Kong, Jing
+AU  - Capasso, Federico
+T2  - Nano Letters
+DA  - 2013/03/13/
+PY  - 2013
+DO  - 10.1021/nl3047943
+DP  - Crossref
+VL  - 13
+IS  - 3
+SP  - 1257
+EP  - 1264
+LA  - en
+SN  - 1530-6984, 1530-6992
+UR  - http://pubs.acs.org/doi/10.1021/nl3047943
+Y2  - 2018/10/11/12:27:38
+ER  - 
+
+TY  - JOUR
+TI  - Flexible, Highly Sensitive, and Wearable Pressure and Strain Sensors with Graphene Porous Network Structure
+AU  - Pang, Yu
+AU  - Tian, He
+AU  - Tao, Luqi
+AU  - Li, Yuxing
+AU  - Wang, Xuefeng
+AU  - Deng, Ningqin
+AU  - Yang, Yi
+AU  - Ren, Tian-Ling
+T2  - ACS Applied Materials & Interfaces
+DA  - 2016/10/12/
+PY  - 2016
+DO  - 10.1021/acsami.6b08172
+DP  - Crossref
+VL  - 8
+IS  - 40
+SP  - 26458
+EP  - 26462
+LA  - en
+SN  - 1944-8244, 1944-8252
+UR  - http://pubs.acs.org/doi/10.1021/acsami.6b08172
+Y2  - 2018/10/11/12:28:10
+ER  - 
+
+TY  - JOUR
+TI  - Graphene for displays that bend
+AU  - Ahn, Jong-Hyun
+AU  - Hong, Byung Hee
+T2  - Nature Nanotechnology
+DA  - 2014/10//
+PY  - 2014
+DO  - 10.1038/nnano.2014.226
+DP  - Crossref
+VL  - 9
+IS  - 10
+SP  - 737
+EP  - 738
+LA  - en
+SN  - 1748-3387, 1748-3395
+UR  - http://www.nature.com/articles/nnano.2014.226
+Y2  - 2018/10/11/12:28:48
+ER  - 
+
