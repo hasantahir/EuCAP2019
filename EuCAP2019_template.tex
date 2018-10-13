@@ -129,7 +129,7 @@
 % *** GRAPHICS RELATED PACKAGES ***
 %
 \ifCLASSINFOpdf
-  % \usepackage[pdftex]{graphicx}
+  \usepackage[pdftex]{graphicx}
   % declare the path(s) where your graphic files are
   % \graphicspath{{../pdf/}{../jpeg/}}
   % and their extensions so you won't have to specify these with
@@ -172,7 +172,7 @@
 
 % *** MATH PACKAGES ***
 %
-%\usepackage[cmex10]{amsmath}
+\usepackage[cmex10]{amsmath}
 % A popular package from the American Mathematical Society that provides
 % many useful and powerful commands for dealing with mathematics. If using
 % it, be sure to load this package with the cmex10 option to ensure that
@@ -367,21 +367,21 @@
 Hasan Abbas\IEEEauthorrefmark{1},   % 1st author, 1st affiliations
 Qammer Abbasi\IEEEauthorrefmark{2},   % 2nd author, 2nd affiliations
 Younes Boudjemline\IEEEauthorrefmark{3},    % 3rd author, 3rd affiliations
-Ziyad Hijazi\IEEEauthorrefmark{4},
+Ziyad Hijazi\IEEEauthorrefmark{3},
 Bilal Mansoor\IEEEauthorrefmark{4},
 Khalid Qaraqe\IEEEauthorrefmark{1}      % 4th author, 4th affiliations
 }                                     % ...
 %\\
 \IEEEauthorblockA{\IEEEauthorrefmark{1}% 1st affiliations
-(Affiliation): Department of ECEN , Texas A\&M University at Qatar, hasan.abbas@qatar.tamu.edu*}
+Department of ECEN, Texas A\&M University at Qatar}
 \IEEEauthorblockA{\IEEEauthorrefmark{2}% 2nd affiliations
-(Affiliation): School of Engineering, University of Glasgow, qammer.abbasi@glasgow.ac.uk*}
+School of Engineering, University of Glasgow}
 \IEEEauthorblockA{\IEEEauthorrefmark{3}% 3rd affiliations
-(Affiliation): Department of Pediatric Cardiology, Sidra Medicine, yboudjemline@sidra.org*}
+Department of Pediatric Cardiology, Sidra Medicine}
 \IEEEauthorblockA{\IEEEauthorrefmark{4}% 4th affiliations
-(Affiliation): Department of ECEN , Texas A\&M University at Qatar,
- bilal.mansoor@qatar.tamu.edu*}
- \IEEEauthorblockA{ \emph{*at least one e-mail address should be indicated above} }
+Department of MEEN, Texas A\&M University at Qatar,
+}
+ \IEEEauthorblockA{ \emph{hasan.abbas@qatar.tamu.edu} }
 }
 
 % conference papers do not typically use \thanks and this command
@@ -433,51 +433,22 @@ In this paper, we present a corrosion monitoring scheme for biodegradable cardio
 % no \IEEEPARstart
 Cardiovascular disease (CVD) is the leading cause of death worldwide, and it accounted for an estimated 30\% of all deaths in the year 2013 globally \cite{benjamin_heart_2017}. Clogging of the heart vessels is the biggest factor responsible for the development of the CVD. These days, it is a common clinical practice to reopen the heart vessels through balloon angioplasty, and place a mesh-type metallic scaffolding tube called a stent to reinforce the vessel walls.  However, due to the long-standing presence of a metallic foreign object in the form of a stent, serious health complications arise chief among which is the reclogging of the vessels in the long term, especially in the vicinity of the stent. From a medical perspective, an ideal stent would be the one that serves its purpose of reopening and stabilizing the heart vessels and then disappear \cite{waksman_biodegradable_2006}.  The biodegradable stents  precisely offer such a possibility where the scaffold structure completely corrode away after performing the reinforcement of the heart vessel walls \cite{hou_review_2016}.
 
-Research into biodegradable polymers and metals has been on-going, but the inherent superior mechanical properties of metals make them more attractive for biodegradable stent application compared to polymers \cite{chen_recent_2014}. Among metals, zinc and magnesium-based alloys have both shown promise for degradable stent applications, but as of today, only Mg-based biodegradable stents have been clinically tested in humans \cite{staiger_magnesium_2006,esmaily_fundamentals_2017}. More importantly, Mg is also vital in maintaining a healthy heart, and given the weight of a typical coronary stent is in the range of \SIrange{3}{5}{\milligram}, the release of Mg ions is unlikely to cause any adverse effects.
+Research into biodegradable polymers and metals has been on-going, but the inherent superior mechanical properties of metals make them more attractive for biodegradable stent application compared to polymers \cite{chen_recent_2014}. Among metals, zinc and magnesium-based alloys have both shown promise for degradable stent applications, but as of today, only Mg-based biodegradable stents have been clinically tested in humans \cite{staiger_magnesium_2006,esmaily_fundamentals_2017}. More importantly, Mg is also vital in maintaining a healthy heart, and given the weight of a typical coronary stent is in the range of \SIrange{3}{5}{\mg}, the release of Mg ions is unlikely to cause any adverse effects.
 
 One of the biggest engineering challenges presented with the use of a biodegradable stent is that its structural integrity must be maintained until the stent completely breaks down and is metabolized in to the bloodstream. To ensure this, the stent and its biodegradation due to corrosion needs to be monitored through non-invasive means. In this paper, we propose an electromagnetic monitoring scheme that monitors the structural integrity of a biodegradable stent using millimeter waves (mm-waves). Compared to the microwave wave imaging, mm-wave provide higher spatial resolution. On the other hand, mm-waves can penetrate deeper into the human tissue compared with the optical frequency counterparts. Using full-wave 3D electromagnetic simulations, we show that the stent corrosion can be determined with the help of the frequency change in the scattering properties.
 
 \vspace{7pt}
 \section{Methodology}
 %
-
-Define abbreviations and acronyms the first time they are used in the text, even after they have been defined in the abstract. Abbreviations such as IEEE, SI, MKS, CGS, sc, dc, and rms do not have to be defined. Do not use abbreviations in the title or heads unless they are unavoidable.
-
-Use either SI (MKS) or CGS as primary units. (SI units are encouraged.) English units may be used as secondary units (in parentheses). An exception would be the use of English units as identifiers in trade, such as “3.5-inch disk drive.”
-
-Avoid combining SI and CGS units, such as current in amperes and magnetic field in oersteds. This often leads to confusion because equations do not balance dimensionally. If you must use mixed units, clearly state the units for each quantity that you use in an equation.
-
-Do not mix complete spellings and abbreviations of units: “Wb/m2” or “webers per square meter,” not “webers/m2.” Spell units when they appear in text: “...a few henries,” not “...a few H.
-
-Use a zero before decimal points: “0.25,” not “.25.” Use “cm3,” not “cc.”
-
-
-\vspace{7pt}
-\section{Some Common Mistakes}
-The word “data” is plural, not singular.
-The subscript for the permeability of vacuum 0, and other common scientific constants, is zero with subscript formatting, not a lowercase letter “o.”
-In American English, commas, semi-/colons, periods, question and exclamation marks are located within quotation marks only when a complete thought or name is cited, such as a title or full quotation. When quotation marks are used, instead of a bold or italic typeface, to highlight a word or phrase, punctuation should appear outside of the quotation marks. A parenthetical phrase or statement at the end of a sentence is punctuated outside of the closing parenthesis (like this). (A parenthetical sentence is punctuated within the parentheses.)
-A graph within a graph is an “inset,” not an “insert.” The word alternatively is preferred to the word “alternately” (unless you really mean something that alternates).
-
-Do not use the word “essentially” to mean “approximately” or “effectively.”
-In your paper title, if the words “that uses” can accurately replace the word using, capitalize the “u”; if not, keep using lower-cased.
-Be aware of the different meanings of the homophones “affect” and “effect,” “complement” and “compliment,” “discreet” and “discrete,” “principal” and “principle.”
-Do not confuse “imply” and “infer.”
-The prefix “non” is not a word; it should be joined to the word it modifies, usually without a hyphen.
-There is no period after the “et” in the Latin abbreviation “et al.”
-The abbreviation “i.e.” means “that is,” and the abbreviation “e.g.” means “for example.”
-Use the expression “reflection coefficient” if you refer to S11 in dB, which must be negative for a passive antenna while the “return loss” is a positive quantity.
-An excellent style manual for science writers is \cite{Young}.
-
-
-\subsection{Subsection Heading Here}
-Subsection text here.
-
-
-\subsubsection{Subsubsection Heading Here}
-Subsubsection text here.
-
-
+To simulate the biodegradation of a cardiovascular stent, we used the \emph{Open stents} \cite{bonsignore_open_2012} models that are customizable due to their inherent parameterization. The stent length was set to \SI{25}{\mm} with the diameter in the expanded form equal to \SI{4}{\mm}, as shown in Fig. \ref{fig:stent}.
+%
+\begin{figure}[h!]
+\centering
+\includegraphics[width=2.5in]{Stent.PNG}
+\caption{An open stent design in the expanded state}
+\label{fig:stent}
+\end{figure}
+%
 % An example of a floating figure using the graphicx package.
 % Note that \label must occur AFTER (or within) \caption.
 % For figures, \caption should occur after the \includegraphics.
@@ -575,9 +546,8 @@ For all further questions please read first the WORD template that is also provi
 \vspace{7pt}
 \section*{Acknowledgment}
 
-
-The authors would like to thank...
-\\Identify applicable sponsor(s) here.
+This publication was made possible by SIRF grant number SIRF 200041 from the
+Sidra Medicine (a member of Qatar Foundation). The statements made herein are solely the responsibility of the authors.
 
 
 
